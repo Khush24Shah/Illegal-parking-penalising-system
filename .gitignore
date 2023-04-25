@@ -2,3 +2,4 @@ __pycache__
 __pycache__/
 *.mp4
 Test.py
+dnn_model/yolov4.weights
